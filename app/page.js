@@ -12,9 +12,13 @@ export default function Home() {
       <section className="py-12 px-6 md:px-24 text-center">
         <h2 className="text-3xl font-semibold mb-4">Our Story</h2>
         <p className="max-w-2xl mx-auto text-lg">
-          TawrCurry is a culinary journey into the rich heritage of Bengali cuisine. We bring
-          to you flavors passed down generations, from comforting home-cooked meals to
-          festive specialties.
+          TawrCurry is more than just a kitchen — it’s a heartfelt journey back to a small town in West Bengal, where a little girl once walked hand-in-hand with her grandfather to the local sweet shops. The smell of fresh rasgullas, the warmth of those walks, and the joy of shared laughter left a lasting imprint on her heart.
+
+After moving away from home, she often found herself longing for those comforting flavors. In her quest to recreate them, cooking slowly became her passion — a way to reconnect with her roots and relive cherished memories.
+
+What began as a personal journey soon transformed into a purpose. At TawrCurry, every dish is made from scratch — with love, patience, and the same care she felt watching her grandmother cook. For her, this isn’t just a business. It’s a celebration of tradition, identity, and emotion.
+
+Through TawrCurry, she invites you to experience the richness of Bengali cuisine — not just as food, but as a story. A story of home, of warmth, of heritage. And for her, the true reward is not profit, but the smile on your face after that very first bite.
         </p>
       </section>
 
