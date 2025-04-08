@@ -1,14 +1,14 @@
 
 import React from "react";
 import Image from "next/image";
-import Logo from "../public/TawrcurryLogoFinal_13.png"; // Ensure this file is in the /public directory
+// Logo is served from public directory directly
 
 export default function Home() {
   return (
     <div className="font-sans text-gray-800 animate-fade-in">
       <header className="flex items-center justify-between bg-yellow-50 p-4 shadow-md px-6 md:px-24 sticky top-0 z-50">
         <div className="flex items-center gap-3">
-          <Image src={Logo} alt="TawrCurry Logo" width={50} height={50} />
+          <Image src="/TawrcurryLogoFinal_13.png" alt="TawrCurry Logo" width={50} height={50} />
           <h1 className="text-2xl font-bold text-yellow-700 tracking-wide">TawrCurry</h1>
         </div>
         <nav className="hidden md:flex space-x-6 font-medium text-yellow-900">
