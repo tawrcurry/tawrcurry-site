@@ -8,7 +8,8 @@ export default function Home() {
     <div className="font-sans text-gray-800 animate-fade-in">
       <header className="flex items-center justify-between bg-yellow-50 p-4 shadow-md px-6 md:px-24 sticky top-0 z-50">
         <div className="flex items-center gap-3">
-          <Image src="/TawrcurryLogoFinal_13.png" alt="TawrCurry Logo" width={50} height={50} />
+          <Image src="/vercel.svg" alt="test" width={100} height={100} />
+         // <Image src="/TawrcurryLogoFinal_13.png" alt="TawrCurry Logo" width={50} height={50} />
           <h1 className="text-2xl font-bold text-yellow-700 tracking-wide">TawrCurry</h1>
         </div>
         <nav className="hidden md:flex space-x-6 font-medium text-yellow-900">
