@@ -53,7 +53,7 @@ export default function Home() {
         <h2 className="text-3xl font-semibold text-center mb-10">Signature Dishes</h2>
         <div className="grid md:grid-cols-3 gap-8">
           {[
-            { name: "Shorshe Ilish", desc: "Hilsa fish in mustard gravy" },
+            { name: "Shorshe Ilishhhh", desc: "Hilsa fish in mustard gravy" },
             { name: "Kosha Mangsho", desc: "Slow-cooked spicy mutton curry" },
             { name: "Chingri Malai Curry", desc: "Prawns simmered in coconut cream" },
           ].map((dish, i) => (
