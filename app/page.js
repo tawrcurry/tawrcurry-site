@@ -9,7 +9,7 @@ export default function Home() {
       <header className="flex items-center justify-between bg-yellow-50 p-4 shadow-md px-6 md:px-24 sticky top-0 z-50">
         <div className="flex items-center gap-3">
          
-         <Image src="/TawrcurryLogoFinal_13.png" alt="TawrCurry Logo" width={50} height={50} />
+         <Image src="/TawrcurryLogoFinal_13.png" alt="TawrCurry Logo" width={550} height={550} />
           <h1 className="text-2xl font-bold text-yellow-700 tracking-wide">TawrCurry</h1>
         </div>
         <nav className="hidden md:flex space-x-6 font-medium text-yellow-900">
