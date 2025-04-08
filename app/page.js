@@ -1,6 +1,6 @@
 
 import React from "react";
-import Image from "next/image";
+// import Image from "next/image";
 // Logo is served from public directory directly
 
 export default function Home() {
@@ -32,17 +32,17 @@ export default function Home() {
         <div className="max-w-3xl mx-auto text-lg leading-relaxed text-gray-700 bg-yellow-50 p-6 rounded-2xl shadow-md">
           <p className="mb-4">
             TawrCurry is more than just a kitchen — it’s a heartfelt journey back to a small town in West Bengal,
-            where a little girl once walked hand-in-hand with her grandfather to the local sweet shops.
+            where a I once walked hand-in-hand with my grandfather to the local sweet shops.
           </p>
           <p className="mb-4">
-            After moving away from home, she missed those flavors. Cooking became her way of holding onto that warmth,
-            and over time, her passion grew into a purpose.
+            After moving away from home, I missed those flavors. Cooking became my way of holding onto that warmth,
+            and over time, my passion grew into a purpose.
           </p>
           <p className="mb-4">
-            Every dish at TawrCurry is made from scratch — with patience, love, and the same care she saw in her grandmother’s kitchen.
+            Every dish at TawrCurry is made from scratch — with patience, love, and the same care I saw in my mother and grandmother’s kitchen.
           </p>
           <p>
-            For her, it’s not just about food — it’s about heritage, emotion, and creating an experience that brings
+            For me, it’s not just about food — it’s about heritage, emotion, and creating an experience that brings
             people closer to Bengali culture, one bite at a time.
           </p>
         </div>
@@ -75,9 +75,9 @@ export default function Home() {
 
       <section id="contact" className="py-16 bg-gray-100 px-6 md:px-24 text-center">
         <h2 className="text-3xl font-semibold mb-6 text-yellow-700">Contact Us</h2>
-        <p className="text-lg mb-2">📍 123 Curry Lane, Kolkata Town</p>
-        <p className="text-lg mb-2">📞 +91-9876543210</p>
-        <p className="text-lg">📧 hello@tawrcurry.com</p>
+        <p className="text-lg mb-2">📍 102 Pierella Drive , Belle River , Ontario N8L0Z3</p>
+        <p className="text-lg mb-2">📞 +15195674152</p>
+        <p className="text-lg">📧 tawrcurry@gmail.com</p>
       </section>
 
       <footer className="py-6 bg-yellow-200 text-center text-sm text-yellow-900">
