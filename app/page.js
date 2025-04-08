@@ -1,6 +1,6 @@
 
 import React from "react";
-// import Image from "next/image";
+//import Image from "next/image";
 // Logo is served from public directory directly
 
 export default function Home() {
